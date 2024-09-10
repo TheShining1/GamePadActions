@@ -1,0 +1,133 @@
+[
+  {
+    "id": "0f06bc80-69cb-4b31-8ed6-937f06ffcb45",
+    "queue": "5657e9da-33df-4ccf-b863-d0f0de160450",
+    "enabled": false,
+    "excludeFromHistory": false,
+    "name": "GamePad",
+    "group": "GamePad",
+    "alwaysRun": false,
+    "randomAction": false,
+    "concurrent": false,
+    "triggers": [],
+    "actions": [
+      {
+        "name": "GamePad",
+        "description": "",
+        "references": [
+          "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscorlib.dll",
+          "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\System.dll",
+          "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\System.Runtime.Serialization.dll",
+          "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\WPF\\System.Windows.Input.Manipulations.dll"
+        ],
+        "byteCode": "dXNpbmcgU3lzdGVtOw0KdXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOw0KdXNpbmcgU3lzdGVtLlRocmVhZGluZzsNCnVzaW5nIFN5c3RlbS5JTzsNCnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljOw0KdXNpbmcgTmV3dG9uc29mdC5Kc29uLkxpbnE7DQoNCnB1YmxpYyBjbGFzcyBDUEhJbmxpbmUNCnsNCglzdGF0aWMgc3RyaW5nIEFjdGlvbnNHcm91cCA9ICJHYW1lUGFkX0FjdGlvbnMiOw0KDQoJc3RhdGljIHN0cmluZyBMb2dQcmVmaXggPSAiR2FtZVBhZCA6OiAiOw0KCXN0YXRpYyBib29sIEVuYWJsZWQgPSBmYWxzZTsNCglzdGF0aWMgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4gam95QWN0aW9uc0RpY3QgPSBuZXcgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4oKTsNCglzdGF0aWMgTGlzdDxpbnQ+IGpveUlkcyA9IG5ldyBMaXN0PGludD4oKTsNCg0KCWVudW0gQWN0aW9uVHlwZQ0KCXsNCgkJQWN0aW9uID0gNCwNCgkJQ29tbWVudCA9IDEwMDkNCgl9DQoNCglbRmxhZ3NdDQoJZW51bSBCdXR0b25zIDogc2hvcnQNCgl7DQoJCUEgPSAxLA0KCQlCID0gMiwNCgkJWCA9IDQsDQoJCVkgPSA4LA0KCQlMQiA9IDE2LA0KCQlSQiA9IDMyLA0KCQlWaWV3ID0gNjQsDQoJCVNoYXJlID0gMTI4LA0KCQlMUyA9IDI1NiwNCgkJUlMgPSA1MTINCgl9DQoNCglbRGxsSW1wb3J0KCJXaW5tbS5kbGwiKV0NCglzdGF0aWMgZXh0ZXJuIGludCBqb3lHZXRQb3NFeChpbnQgdUpveUlELCByZWYgSk9ZSU5GT0VYIHBqaSk7DQoJW0RsbEltcG9ydCgiV2lubW0uZGxsIildDQoJc3RhdGljIGV4dGVybiBpbnQgam95R2V0TnVtRGV2cygpOw0KDQoJW1N0cnVjdExheW91dChMYXlvdXRLaW5kLlNlcXVlbnRpYWwpXQ0KCXN0cnVjdCBKT1lJTkZPRVgNCgl7DQoJCXB1YmxpYyBpbnQgZHdTaXplOyANCgkJcHVibGljIGludCBkd0ZsYWdzOyANCgkJcHVibGljIGludCBkd1hwb3M7IA0KCQlwdWJsaWMgaW50IGR3WXBvczsgDQoJCXB1YmxpYyBpbnQgZHdacG9zOyANCgkJcHVibGljIGludCBkd1Jwb3M7IA0KCQlwdWJsaWMgaW50IGR3VXBvczsgDQoJCXB1YmxpYyBpbnQgZHdWcG9zOyANCgkJcHVibGljIGludCBkd0J1dHRvbnM7IA0KCQlwdWJsaWMgaW50IGR3QnV0dG9uTnVtYmVyOyANCgkJcHVibGljIGludCBkd1BPVjsgDQoJCXB1YmxpYyBpbnQgZHdSZXNlcnZlZDE7IA0KCQlwdWJsaWMgaW50IGR3UmVzZXJ2ZWQyOyANCgl9DQoNCgllbnVtIE1NU1lTRVJSDQoJew0KCQlCQVNFID0gMCwNCgkJQkFEREVWSUNFSUQgPSAoQkFTRSArIDUpLA0KCQlJTlZBTFBBUkFNID0gKEJBU0UgKyAxMSkNCgl9DQoNCgllbnVtIEpPWUVSUg0KCXsNCgkJQkFTRSA9IDE2MCwNCgkJUEFSTVMgPSAoQkFTRSArIDUpLA0KCQlVTlBMVUdHRUQgPSAoQkFTRSArIDcpDQoJfQ0KDQovKg0KCXB1YmxpYyB2b2lkIEluaXQoKQ0KCXsNCgkJU3RhcnQoKTsNCgl9DQoqLw0KDQoJcHVibGljIGJvb2wgRXhlY3V0ZSgpDQoJew0KCQl2YXIgSm95QXJyID0gbmV3IEpPWUlORk9FWCgpOw0KCQlKb3lBcnIuZHdTaXplID0gTWFyc2hhbC5TaXplT2YoSm95QXJyKTsNCgkJSm95QXJyLmR3RmxhZ3MgPSAyNTU7DQoJCXZhciBKb3lJZCA9IGpveUlkc1swXTsNCg0KCQl3aGlsZSAoRW5hYmxlZCkNCgkJew0KCQkJdmFyIGVyciA9IGpveUdldFBvc0V4KEpveUlkLCByZWYgSm95QXJyKTsNCgkJCWlmIChlcnIgIT0gKGludClNTVNZU0VSUi5CQVNFKQ0KCQkJew0KCQkJCXZhciBlcnJTdHJpbmcgPSBFbnVtLkdldE5hbWUodHlwZW9mKE1NU1lTRVJSKSwgZXJyKSArIEVudW0uR2V0TmFtZSh0eXBlb2YoSk9ZRVJSKSwgZXJyKTsNCgkJCQlDUEguTG9nRGVidWcoJCJ7TG9nUHJlZml4fUlEOiB7Sm95SWR9LCBlcnJvciB7ZXJyfTp7ZXJyU3RyaW5nfSIpOw0KCQkJCVN0b3AoKTsNCgkJCQlyZXR1cm4gZmFsc2U7DQoJCQl9DQoJCQ0KCQkJZm9yZWFjaChLZXlWYWx1ZVBhaXI8c3RyaW5nLCBzdHJpbmc+IGFjdGlvbiBpbiBqb3lBY3Rpb25zRGljdCkNCgkJCXsNCgkJCQlpbnQgc2VxdWVuY2UgPSAwOw0KCQkJCXN0cmluZ1tdIGtleXNBcnIgPSBhY3Rpb24uS2V5LlNwbGl0KCcrJyk7DQoJCQkJZm9yZWFjaChzdHJpbmcga2V5IGluIGtleXNBcnIpDQoJCQkJew0KCQkJCQlCdXR0b25zIGJ1dHRvbiA9IChCdXR0b25zKUVudW0uUGFyc2UodHlwZW9mKEJ1dHRvbnMpLCBrZXkpOw0KCQkJCQlzZXF1ZW5jZSA9IHNlcXVlbmNlIHwgKGludClidXR0b247DQoJCQkJfQ0KDQoJCQkJdmFyIGtleVByZXNzZWQgPSBpc1ByZXNzZWQoSm95QXJyLCAoaW50KXNlcXVlbmNlLCBrZXlzQXJyLkxlbmd0aCk7DQoJDQoJCQkJaWYoa2V5UHJlc3NlZCkgew0KCQkJCQlDUEguTG9nRGVidWcoJCJ7TG9nUHJlZml4fUlEIHtKb3lJZH0sIFNlcXVlbmNlOiB7c2VxdWVuY2V9IGlzIHByZXNzZWQiKTsNCgkJCQkJdmFyIGlzUnVuID0gQ1BILlJ1bkFjdGlvbkJ5SWQoYWN0aW9uLlZhbHVlKTsNCgkJCQkJQ1BILkxvZ0RlYnVnKCQie0xvZ1ByZWZpeH1BY3Rpb24ge2FjdGlvbi5WYWx1ZX0gaXMgcnVuOiB7aXNSdW59Iik7DQoJCQkJfQ0KCQkJfQ0KCQkJVGhyZWFkLlNsZWVwKDEwMCk7DQoJCX0NCg0KCQlyZXR1cm4gdHJ1ZTsNCgl9DQoNCglib29sIGlzUHJlc3NlZChKT1lJTkZPRVggSm95QXJyLCBpbnQgc2VxdWVuY2UsIGludCBudW1iZXJPZkJ1dHRvbnMpDQoJewkJDQoJCXJldHVybiAoSm95QXJyLmR3QnV0dG9ucyAmIHNlcXVlbmNlKSA9PSBzZXF1ZW5jZSAmJiBKb3lBcnIuZHdCdXR0b25OdW1iZXIgPT0gbnVtYmVyT2ZCdXR0b25zOw0KCX0NCg0KCXB1YmxpYyBib29sIFN0YXJ0KCkNCgl7DQoJCUNQSC5Mb2dEZWJ1ZygkIntMb2dQcmVmaXh9c3RhcnRlZCBsaXN0ZW5pbmciKTsNCgkJam95SWRzID0gRmluZEpveXN0aWNrcygpOw0KCQlpZiAoam95SWRzLkNvdW50ID09IDApIHsNCgkJCVN0b3AoKTsNCgkJCXJldHVybiBmYWxzZTsNCgkJfQ0KCQlqb3lBY3Rpb25zRGljdCA9IEdldEFjdGlvbnMoQWN0aW9uc0dyb3VwKTsNCgkJRW5hYmxlZCA9IHRydWU7DQoJCUV4ZWN1dGUoKTsNCg0KCQlyZXR1cm4gdHJ1ZTsNCgl9DQoNCglwdWJsaWMgYm9vbCBTdG9wKCkNCgl7DQoJCUNQSC5Mb2dEZWJ1ZygkIntMb2dQcmVmaXh9c3RvcHBlZCBsaXN0ZW5pbmciKTsNCgkJRW5hYmxlZCA9IGZhbHNlOw0KCQlyZXR1cm4gdHJ1ZTsNCgl9DQoNCglMaXN0PGludD4gRmluZEpveXN0aWNrcygpDQoJew0KCQlDUEguTG9nRGVidWcoJCJ7TG9nUHJlZml4fWxvb2tpbmcgZm9yIGdhbWVwYWRzIik7DQoJCXZhciBpZHMgPSBuZXcgTGlzdDxpbnQ+KCk7DQoJCXZhciBKb3lBcnIgPSBuZXcgSk9ZSU5GT0VYKCk7DQoJCUpveUFyci5kd1NpemUgPSBNYXJzaGFsLlNpemVPZihKb3lBcnIpOw0KCQlKb3lBcnIuZHdGbGFncyA9IDI1NTsNCgkJdmFyIG51bU9mSm95cyA9IGpveUdldE51bURldnMoKTsNCg0KCQlmb3IgKHZhciBpID0gMDsgaSA8IG51bU9mSm95czsgaSsrKQ0KCQl7DQoJCQl2YXIgZXJyID0gam95R2V0UG9zRXgoaSwgcmVmIEpveUFycik7DQoJCQlDUEguTG9nRGVidWcoJCJ7TG9nUHJlZml4fWVyciB7ZXJyfSIpOw0KCQkJaWYgKGVyciAhPSAwKSBjb250aW51ZTsNCgkJCWlkcy5BZGQoaSk7DQoJCX0NCg0KCQlDUEguTG9nRGVidWcoJCJ7TG9nUHJlZml4fWZvdW5kIHtpZHMuQ291bnR9IGdhbWVwYWRzIHdpdGggSURzIHtTdHJpbmcuSm9pbigiLCAiLCBpZHMpfSAiKTsNCg0KCQlyZXR1cm4gaWRzOw0KCX0NCg0KCURpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+IEdldEFjdGlvbnMoc3RyaW5nIGdyb3VwTmFtZSkNCgl7DQoJCXN0cmluZyBmaWxlUGF0aCA9IEAiZGF0YVxhY3Rpb25zLmpzb24iOw0KCQlzdHJpbmcganNvblN0ciA9IEZpbGUuUmVhZEFsbFRleHQoZmlsZVBhdGgpOw0KDQoJCUpPYmplY3QgYWN0aW9uc0ZpbGVKc29uID0gSk9iamVjdC5QYXJzZShqc29uU3RyKTsNCgkJSkFycmF5IGFjdGlvbnNBcnIgPSBhY3Rpb25zRmlsZUpzb24uVmFsdWU8SkFycmF5PigiYWN0aW9ucyIpOw0KDQoJCXZhciBqb3lBY3Rpb25zRGljdCA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigpOw0KDQoJCWZvcmVhY2ggKEpPYmplY3QgYWN0aW9uIGluIGFjdGlvbnNBcnIpDQoJCXsNCgkJCXZhciBhY3Rpb25zRGljdCA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigpOw0KCQkJc3RyaW5nIGFjdGlvbkdyb3VwID0gYWN0aW9uWyJncm91cCJdLlRvU3RyaW5nKCk7DQoJCQlib29sIGFjdGlvbkVuYWJsZWQgPSAoYm9vbClhY3Rpb25bImVuYWJsZWQiXTsNCgkJCQ0KCQkJaWYgKGFjdGlvbkVuYWJsZWQgJiYgYWN0aW9uR3JvdXAgPT0gZ3JvdXBOYW1lKQ0KCQkJew0KCQkJCUpBcnJheSBzdWJBY3Rpb25zQXJyID0gYWN0aW9uLlZhbHVlPEpBcnJheT4oImFjdGlvbnMiKTsNCg0KCQkJCXN0cmluZyBidXR0b25zID0gIiI7DQoJCQkJc3RyaW5nIGFjdGlvbklkID0gIiI7DQoJCQkJDQoJCQkJZm9yZWFjaCAoSk9iamVjdCBzdWJBY3Rpb24gaW4gc3ViQWN0aW9uc0FycikNCgkJCQl7DQoJCQkJCWlmICgoaW50KXN1YkFjdGlvblsidHlwZSJdID09IChpbnQpQWN0aW9uVHlwZS5Db21tZW50KSBidXR0b25zID0gc3ViQWN0aW9uWyJ2YWx1ZSJdLlRvU3RyaW5nKCk7DQoJCQkJCWlmICgoaW50KXN1YkFjdGlvblsidHlwZSJdID09IChpbnQpQWN0aW9uVHlwZS5BY3Rpb24pIGFjdGlvbklkID0gc3ViQWN0aW9uWyJhY3Rpb25JZCJdLlRvU3RyaW5nKCk7DQoJCQkJfQ0KCQkJCWlmKGJ1dHRvbnMgPT0gIiIgfHwgYWN0aW9uSWQgPT0gIiIpIGNvbnRpbnVlOw0KCQkJCWpveUFjdGlvbnNEaWN0LkFkZChidXR0b25zLCBhY3Rpb25JZCk7DQoJCQl9DQoJCX0NCg0KCQlmb3JlYWNoKEtleVZhbHVlUGFpcjxzdHJpbmcsIHN0cmluZz4gYWN0aW9uIGluIGpveUFjdGlvbnNEaWN0KQ0KCQl7DQoJCQlDUEguTG9nSW5mbygkIntMb2dQcmVmaXh9Rm91bmQgYnV0dG9uczoge2FjdGlvbi5LZXl9IGFjdGlvbnM6IHthY3Rpb24uVmFsdWV9Iik7DQoJCX0NCg0KCQlyZXR1cm4gam95QWN0aW9uc0RpY3Q7DQoJfQ0KfQ0K",
+        "precompile": true,
+        "delayStart": false,
+        "saveResultToVariable": false,
+        "saveToVariable": "",
+        "id": "54cc9d6a-df6b-4796-ad89-b6bd07123c28",
+        "weight": 0.0,
+        "type": 99999,
+        "group": null,
+        "enabled": true,
+        "index": 0
+      }
+    ],
+    "actionGroups": [],
+    "collapsedGroups": []
+  },
+  {
+    "id": "3dfb122e-6731-4b1e-ad36-82e3135357ad",
+    "queue": "5657e9da-33df-4ccf-b863-d0f0de160450",
+    "enabled": true,
+    "excludeFromHistory": false,
+    "name": "GamePad_Start",
+    "group": "GamePad",
+    "alwaysRun": false,
+    "randomAction": false,
+    "concurrent": false,
+    "triggers": [],
+    "actions": [
+      {
+        "executeCodeId": "54cc9d6a-df6b-4796-ad89-b6bd07123c28",
+        "method": "Start",
+        "runOnUiThread": false,
+        "saveResultToVariable": false,
+        "saveToVariable": null,
+        "id": "d4c1f63a-972e-48d5-882e-9ca625f1c5b4",
+        "weight": 0.0,
+        "type": 99998,
+        "group": null,
+        "enabled": true,
+        "index": 0
+      }
+    ],
+    "actionGroups": [],
+    "collapsedGroups": []
+  },
+  {
+    "id": "f51999dc-b639-43c0-a418-9b1f1422bd8e",
+    "queue": "2a1137b6-9a4e-4383-8b01-072fb093d597",
+    "enabled": true,
+    "excludeFromHistory": false,
+    "name": "GamePad_Stop",
+    "group": "GamePad",
+    "alwaysRun": false,
+    "randomAction": false,
+    "concurrent": false,
+    "triggers": [],
+    "actions": [
+      {
+        "executeCodeId": "54cc9d6a-df6b-4796-ad89-b6bd07123c28",
+        "method": "Stop",
+        "runOnUiThread": false,
+        "saveResultToVariable": false,
+        "saveToVariable": null,
+        "id": "92e39345-7ac1-4d70-95fe-8db8e0b70a57",
+        "weight": 0.0,
+        "type": 99998,
+        "group": null,
+        "enabled": true,
+        "index": 0
+      }
+    ],
+    "actionGroups": [],
+    "collapsedGroups": []
+  },
+  {
+    "id": "985d8db2-e5a5-40cd-ab6a-c751fb613d3c",
+    "queue": null,
+    "enabled": false,
+    "excludeFromHistory": false,
+    "name": "GamePad_ActionExmaple",
+    "group": "GamePad_Actions",
+    "alwaysRun": false,
+    "randomAction": false,
+    "concurrent": false,
+    "triggers": [],
+    "actions": [
+      {
+        "value": "Button or combination, use + betwen buttons for combination.",
+        "color": null,
+        "id": "9478e056-bd17-438e-ab4f-4cbad833cdc3",
+        "weight": 0.0,
+        "type": 1009,
+        "group": null,
+        "enabled": true,
+        "index": 0
+      },
+      {
+        "actionId": "985d8db2-e5a5-40cd-ab6a-c751fb613d3c",
+        "runImmedately": true,
+        "id": "1c6335b9-75c1-4c68-b090-892f66ec9232",
+        "weight": 0.0,
+        "type": 4,
+        "group": null,
+        "enabled": true,
+        "index": 1
+      }
+    ],
+    "actionGroups": [],
+    "collapsedGroups": []
+  }
+]

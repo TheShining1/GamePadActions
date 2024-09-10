@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5657e9da-33df-4ccf-b863-d0f0de160450",
+    "blocking": false,
+    "name": "GamePad"
+  },
+  {
+    "id": "2a1137b6-9a4e-4383-8b01-072fb093d597",
+    "blocking": false,
+    "name": "GamePadEvent"
+  }
+]
