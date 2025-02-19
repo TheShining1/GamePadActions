@@ -3,7 +3,7 @@
 This code gives you ability to trigger Streamer.Bot actions via Gamepad.
 
 ## Tutorial
-[![Tutorial](TSO.GamePadActions_thumbnail.png)](https://www.youtube.com/watch?v=SP0VkEmmbpQ&)
+[![Tutorial](TSO.GamePadActions_thumbnail.png)](https://www.youtube.com/watch?v=uNAuaE8XsEM)
 
 ## Install
 To install, grab .sb file or code import below and put it into import dialog window in Streamer.Bot.
