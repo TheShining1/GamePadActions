@@ -19,3 +19,17 @@ mscorlib.dll
 System.Text.Json.dll
 System.Memory.dll
 ```
+
+## Configuration
+Create an Action inside `GamePad_Actions` group.
+
+It must contain:
+* comment, where you write which button you want to use;
+* and one Run Action sub-action, which call actual Action.
+
+How to run `GamePad_Start` and `GamePad_Stop` actions is up to you, you can use any trigger.
+
+Don't forget, when you change anything in `GamePad_Actions` group:
+* run `GamePad_Stop`, so it stops listener;
+* press Save in SB, because this pushes changes to the file and this extension reads them from it;
+* and start listener again with `GamePad_Start`.
