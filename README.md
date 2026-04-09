@@ -33,3 +33,16 @@ Don't forget, when you change anything in `GamePad_Actions` group:
 * run `GamePad_Stop`, so it stops listener;
 * press Save in SB, because this pushes changes to the file and this extension reads them from it;
 * and start listener again with `GamePad_Start`.
+
+List of possible buttons:
+
+* A
+* B
+* X
+* Y
+* LB
+* RB
+* View
+* Share
+* LS
+* RS
